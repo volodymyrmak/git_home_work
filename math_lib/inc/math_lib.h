@@ -3,4 +3,6 @@
 
 int diff(int a, int b);
 
+int multiply(int a, int b);
+
 #endif  // MATH_LIB_H_
